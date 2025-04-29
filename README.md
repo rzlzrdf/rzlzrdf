@@ -1,8 +1,6 @@
-# Hi there, I'm Rizal - aka [rzlzrdf](https://www.linkedin.com/in/rzlzrdf-774085220/) 👋
+# Hi there, I'm Rizal - aka [rzlzrdf](https://www.linkedin.com/in/rzlzrdf) 👋
 ## About me:
-- 🔭 I’m currently studyinh at Faculty of Computer Science Universitas Brawijaya.
-- 🌱 I’m currently interested to Javascript/Typescript like React, Next, and Express.
-- 👯 I’m looking to collaborate as Frontend Developer
+- 👯 I’m looking to collaborate as Website Developer
 - 💬 Ask me about Job or Hire me
 - 📫 How to reach me: rizallazu76@gmail.com
 
